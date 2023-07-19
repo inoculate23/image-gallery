@@ -105,7 +105,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         </div>
       </main>
       <footer className="p-6 text-center text-white/80 sm:p-12">
-     Inoculate Media - "Design, Coding. & Consulting"  702=776-1124  Las Vegas, NV</br>
+Inoculate Media - "Design, Coding. & Consulting"  702=776-1124  Las Vegas, NV
     All rights reserved, 2023
       </footer>
     </>
