@@ -59,10 +59,11 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
             </div>
             <Logo />
             <h1 className="mt-8 mb-4 text-base font-bold uppercase tracking-widest">
-              2022 Event Photos
+            Haawke Neural by Inoculate Media
+              
+              AI & Machine Learning, model training, data services
             </h1>
             <p className="max-w-[40ch] text-white/75 sm:max-w-[32ch]">
-             Fine design, coding, machine learning and AI.
             "if it can be imagned, we can make it."
             </p>
             <a
@@ -73,7 +74,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
               target="_blank"
               rel="noreferrer"
             >
-             Email us
+            Contact
             </a>
           </div>
           {images.map(({ id, public_id, format, blurDataUrl }) => (
