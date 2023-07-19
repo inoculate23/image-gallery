@@ -4,6 +4,7 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
+        <head>
        <!-- Primary Meta Tags -->
 <title>Haawke Neural Technology - Las Vegas AI and machine learning experts</title>
 <meta name="title" content="Haawke Neural Technology - Las Vegas AI and machine learning experts" />
