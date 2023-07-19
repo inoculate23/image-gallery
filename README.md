@@ -1,4 +1,5 @@
 # Haawke Neural portfolio app
+![og-image](https://github.com/inoculate23/image-gallery/assets/73420772/2de588df-5990-4eb3-b178-228a1c93f0cc)
 
 This example shows how to create an image gallery site using Next.js, [Cloudinary](https://cloudinary.com), and [Tailwind](https://tailwindcss.com).
 
