@@ -114,15 +114,41 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
             </Link>
           ))}
         </div>
+    
       </main>
       <footer className="p-6 text-center text-white/80 sm:p-12">
- All rights reserved, 2023 - Inoculate Media - "Design, Coding. & Consulting"  702-776-1124  Las Vegas, NV
-   
+        Thank you to{' '}
+        <a
+          href="https://edelsonphotography.com/"
+          target="_blank"
+          className="font-semibold hover:text-white"
+          rel="noreferrer"
+        >
+          Josh Edelson
+        </a>
+        ,{' '}
+        <a
+          href="https://www.newrevmedia.com/"
+          target="_blank"
+          className="font-semibold hover:text-white"
+          rel="noreferrer"
+        >
+          Jenny Morgan
+        </a>
+        , and{' '}
+        <a
+          href="https://www.garysextonphotography.com/"
+          target="_blank"
+          className="font-semibold hover:text-white"
+          rel="noreferrer"
+        >
+          Gary Sexton
+        </a>{' '}
+        for the pictures.
       </footer>
     </>
   )
 }
-
 
 export default Home
 
