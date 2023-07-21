@@ -30,7 +30,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
     
      <head>
 
-      </Head>
+      </head>
       <main className="mx-auto max-w-[1960px] p-4">
         {photoId && (
           <Modal
