@@ -9,7 +9,7 @@ class MyDocument extends Document {
 <title>Haawke Neural Technology - Las Vegas AI and machine learning experts</title>
 
 
-        </Head>
+        </head>
         <body className="bg-black antialiased">
           <Main />
           <NextScript />
