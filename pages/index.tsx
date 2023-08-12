@@ -26,7 +26,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
   }, [photoId, lastViewedPhoto, setLastViewedPhoto])
 
   return (
-    <>
+  
     
      <head>
 
@@ -184,7 +184,7 @@ c-376 -1 -693 -4 -705 -6z"/>
         <div>702-776-1124    Las Vegas, NV
    
       </footer>
-    </>
+    
   )
 }
 
