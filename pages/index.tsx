@@ -26,7 +26,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
   }, [photoId, lastViewedPhoto, setLastViewedPhoto])
 
   return (
-   return (
+
     <>
       <Head>
         <title>Haawke Neural - Las Vegas design & consulting</title>
