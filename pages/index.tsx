@@ -46,7 +46,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
             onClose={() => {
               setLastViewedPhoto(photoId)
             }}
-          />
+          
         )}
         <div className="columns-1 gap-4 sm:columns-2 xl:columns-3 2xl:columns-4">
           <div className="after:content relative mb-5 flex h-[629px] flex-col items-center justify-end gap-4 overflow-hidden rounded-lg bg-white/10 px-6 pb-16 pt-64 text-center text-white shadow-highlight after:pointer-events-none after:absolute after:inset-0 after:rounded-lg after:shadow-highlight lg:pt-0">
