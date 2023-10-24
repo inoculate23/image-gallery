@@ -115,7 +115,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         <div>
  All rights reserved, 2023 - Inoculate Media - "Design, Coding. & Consulting"  
           </div>
-        <div>702-776-1124    Las Vegas, NV
+        <div> 725=243-1659   Las Vegas, NV
    
       </footer>
     
